@@ -1,0 +1,238 @@
+[
+    {
+        "id": "erkek-1",
+        "name": "Soluk efektli kare kesim kapüşonlu sweatshirt",
+        "price": "890 TL",
+        "description": "  ",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt1:1.jpeg",
+            "img/erkekSwearshirt1:2.jpeg",
+            "img/erkekSwearshirt1:3.jpeg"
+        
+        ]
+    },
+    {
+        "id": "erkek-2",
+        "name": "Kapüşonlu crop fit sweatshirt",
+        "price": "790 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt2:1.jpeg",
+            "img/erkekSwearshirt2:2.jpeg",
+            "img/erkekSwearshirt2:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-3",
+        "name": "İşlemeli kapüşonlu sweatshirt",
+        "price": "890 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt3:1.jpeg",
+            "img/erkekSwearshirt3:2.jpeg",
+            "img/erkekSwearshirt3:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-4",
+        "name": "Jean-Michel Basquiat baskılı kapüşonlu sweatshirt",
+        "price": "1.190 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt4:1.jpeg",
+            "img/erkekSwearshirt4:2.jpeg",
+            "img/erkekSwearshirt4:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-5",
+        "name": "Boxy fit kapüşonlu sweathsirt",
+        "price": "990 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt5:1.jpeg",
+            "img/erkekSwearshirt5:2.jpeg",
+            "img/erkekSwearshirt5:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-6",
+        "name": "Desenli sweatshirt",
+        "price": "690 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt6:1.jpeg",
+            "img/erkekSwearshirt6:2.jpeg",
+            "img/erkekSwearshirt6:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-7",
+        "name": "Generation Bershka kapüşonlu oversize sweatshirt",
+        "price": "1090 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt7:1.jpeg",
+            "img/erkekSwearshirt7:2.jpeg",
+            "img/erkekSwearshirt7:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-8",
+        "name": "Desenli kapüşonlu sweatshirt",
+        "price": "790 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt8:1.jpeg",
+            "img/erkekSwearshirt8:2.jpeg",
+            "img/erkekSwearshirt8:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "erkek-9",
+        "name": "Desenli sweatshirt",
+        "price": "770 TL",
+        "description": "",
+        "category": "Sweatshirt",
+        "images": [
+            "img/erkekSwearshirt9:1.jpeg",
+            "img/erkekSwearshirt9:2.jpeg",
+            "img/erkekSwearshirt9:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-1",
+        "name": "Suni yünlü çift taraflı naylon karışımlı kapüşonlu mont",
+        "price": "1770 TL",
+        "description": "  ",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt1:1.jpeg",
+            "img/kadınSwearshirt1:2.jpeg",
+            "img/kadınSwearshirt1:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-2",
+        "name": "Bomber Ceket",
+        "price": "1290 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt2:1.jpeg",
+            "img/kadınSwearshirt2:2.jpeg",
+            "img/kadınSwearshirt2:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-3",
+        "name": "Kapuşonlu şişme mont",
+        "price": "1090 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt3:1.jpeg",
+            "img/kadınSwearshirt3:2.jpeg",
+            "img/kadınSwearshirt3:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-4",
+        "name": "Yün karışımlı şişme mont",
+        "price": "1.190 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt4:1.jpeg",
+            "img/kadınSwearshirt4:2.jpeg",
+            "img/kadınSwearshirt4:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-5",
+        "name": "Yün karışımlı trençkot",
+        "price": "2190 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt5:1.jpeg",
+            "img/kadınSwearshirt5:2.jpeg",
+            "img/kadınSwearshirt5:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-6",
+        "name": "Yumuşak uzun kaban",
+        "price": "990 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt6:1.jpeg",
+            "img/kadınSwearshirt6:2.jpeg",
+            "img/kadınSwearshirt6:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-7",
+        "name": "Kapüşonlu suni kürk kaban",
+        "price": "1690 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt7:1.jpeg",
+            "img/kadınSwearshirt7:2.jpeg",
+            "img/kadınSwearshirt7:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-8",
+        "name": "Suni yünlü astarlı uzun denim parka",
+        "price": "1900 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt8:1.jpeg",
+            "img/kadınSwearshirt8:2.jpeg",
+            "img/kadınSwearshirt8:3.jpeg"
+            
+        ]
+    },
+    {
+        "id": "kadın-9",
+        "name": "Suni kürklü suni deri yelek",
+        "price": "1770 TL",
+        "description": "",
+        "category": "Ceket",
+        "images": [
+            "img/kadınSwearshirt9:1.jpeg",
+            "img/kadınSwearshirt9:2.jpeg",
+            "img/kadınSwearshirt9:3.jpeg"
+            
+        ]
+    }
+]
+
+
